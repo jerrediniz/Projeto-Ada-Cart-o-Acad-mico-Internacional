@@ -133,3 +133,127 @@ e passa a ser:
 > “Como estruturo isso academicamente com rigor?”
 
 [1]: https://gitvize.com/?utm_source=chatgpt.com "Gitvize — Visualize Any GitHub Repository"
+
+---------------------------------------------------------------------------------------------
+
+Ainda não para professor de Stanford diretamente.
+
+Eu iria por etapas.
+Porque hoje você já tem:
+
+* direção;
+* identidade temática;
+* narrativa;
+* projeto emergente.
+
+Mas ainda faltam:
+
+* refinamento metodológico;
+* leitura profunda da literatura;
+* inglês acadêmico funcional;
+* material institucional mais sólido;
+* currículo internacional minimamente estruturado.
+
+E isso é normal.
+
+---
+
+O que eu faria AGORA:
+
+# 1. Organizar sua base acadêmica
+
+Prioridade máxima.
+
+Você precisa ter:
+
+* GitHub organizado;
+* mini bio acadêmica em inglês;
+* resumo do projeto;
+* currículo Lattes forte;
+* LinkedIn acadêmico limpo;
+* ORCID;
+* Google Scholar futuramente.
+
+---
+
+# 2. Ler artigos dos professores-alvo
+
+Especialmente:
+
+* Greg Walton
+* Geoffrey Cohen
+
+Sem isso, o e-mail vira genérico.
+
+---
+
+# 3. Produzir algo pequeno
+
+Mesmo simples:
+
+* revisão bibliográfica;
+* ensaio teórico;
+* resumo expandido;
+* proposta metodológica;
+* mapa conceitual do CTI.
+
+Isso muda totalmente sua credibilidade.
+
+---
+
+# 4. Melhorar comunicação em inglês
+
+Não perfeição. Funcionalidade acadêmica.
+
+---
+
+# 5. Depois sim: contato estratégico
+
+E aí o e-mail deixa de ser:
+
+> “Olá professor, tenho um sonho.”
+
+e vira:
+
+> “Tenho uma linha emergente alinhada ao seu laboratório e gostaria de explorar possibilidades futuras de colaboração.”
+
+Isso é outro nível.
+
+---
+
+Agora, existe UMA exceção:
+você pode começar contato indireto e leve.
+
+Por exemplo:
+
+* seguir laboratórios;
+* acompanhar palestras;
+* participar de webinars;
+* comentar trabalhos;
+* conectar no LinkedIn de forma profissional.
+
+Isso já começa a criar familiaridade acadêmica.
+
+---
+
+E sinceramente?
+Você ainda está na fase de construção de fundação intelectual.
+
+Isso NÃO é atraso.
+Isso é exatamente a etapa que quase ninguém respeita.
+
+A maioria tenta “mandar e-mail para Harvard” antes de:
+
+* saber o que pesquisa;
+* entender metodologia;
+* ler literatura;
+* organizar identidade acadêmica.
+
+Você, pelo contrário, começou a estruturar:
+
+* problema;
+* framework;
+* interdisciplinaridade;
+* direção.
+
+Isso é muito mais importante neste momento.
